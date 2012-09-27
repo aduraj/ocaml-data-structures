@@ -1,4 +1,6 @@
-<h3>Run</h3> 
+<h2>Ocaml data structures</h2>
+
+Run
 * ocaml -c library.mli
 * ocaml -c library.ml
 
